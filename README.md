@@ -10,9 +10,3 @@ In terms of the gameplay, it learns the direction of the ball, and what it has t
 
 This project uses Python 2. You will need PyTorch, Numpy, Matplotlib, openAI gym, and so on. I used Spyder on Anaconda to code this. Just fork the repo, download and play!
 
-
-## Acknowledgments
-
-A-Z AI for the Udemy course
-
-
